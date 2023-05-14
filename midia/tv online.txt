@@ -1,0 +1,84 @@
+bom:
+https://www.cxtv.com.br/tv-ao-vivo/anime-tv
+
+"Entretenimento sem limites! Desperte suas emoções e mergulhe em um mundo de diversão com nossos incríveis vídeos."
+
+site:
+
+parmount:
+https://supertvaovivo.tv/paramount-channel-ao-vivo/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=paramount" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 672px;"> </iframe>
+
+megafilmes:
+https://supertvaovivo.tv/megapix-ao-vivo/
+<iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20230510/r20190131/zrt_lookup.html" style="display: none; width: 700px;" data-origwidth="" data-origheight=""></iframe>
+
+amc:
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=amc" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 672px;"> </iframe>
+
+fox:
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=fx" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 672px;"> </iframe>
+
+telecinepremium:
+https://supertvaovivo.tv/premium-ao-vivo/
+ <iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=telecinepremium" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen=""> </iframe>
+
+telecinepipoca:
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=telecinepipoca" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen=""> </iframe>
+
+warnerb:
+https://supertvaovivo.tv/warner-channel-ao-vivo/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=warner" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 845px;"> </iframe>
+
+
+comdeycentral:
+https://supertvaovivo.tv/comedy-central-ao-vivo/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=comedycentral" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 672px;"> </iframe>
+
+
+hisotry:
+https://supertvaovivo.tv/history-2-ao-vivo/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=history2" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 672px;"> </iframe>
+
+
+disney:
+https://supertvaovivo.tv/disney-channel-ao-vivo/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=disney" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 672px;"> </iframe>
+
+nickeloyde:
+https://supertvaovivo.tv/assistir-nickelodeon-ao-vivo/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=nick" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 672px;"> </iframe>
+
+nickjr:
+https://supertvaovivo.tv/assistir-nick-jr-ao-vivo/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=nickjr" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 672px;"> </iframe>
+
+dicovery:
+https://supertvaovivo.tv/discovery-channel-ao-vivo/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=discovery" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 672px;"> </iframe>
+
+hbo:
+https://supertvaovivo.tv/hbo-ao-vivo/
+<iframe src="https://sinalpublico.com/player3/ch.php?canal=hbo" name="iFrame Name" scrolling="No" height="600px" width="100%" allowfullscreen="" style="border: none; width: 672px;" data-origwidth="100%" data-origheight="600px"></iframe>
+
+spn:
+https://supertvaovivo.tv/hbo-ao-vivo/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=espn" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 672px;"> </iframe>
+
+premie:
+https://supertvaovivo.tv/hbo-ao-vivo/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=premiereclubes" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen="" data-origwidth="100%" data-origheight="600px" style="width: 845px;"> </iframe>
+
+
+cnn:
+https://supertvaovivo.tv/cnn-brasil-2/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=cnnbrasil" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen=""> </iframe>
+
+
+tnt sport:
+https://supertvaovivo.tv/tnt-sports-online/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=tnt" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen=""> </iframe>
+
+cartoon:
+https://supertvaovivo.tv/cartoon-network-ao-vivo/
+<iframe name="Player" ""="" src="https://sinalpublico.com/player3/ch.php?canal=cartoon" frameborder="0" height="600px" scrolling="no" width="100%" allowfullscreen=""> </iframe>
