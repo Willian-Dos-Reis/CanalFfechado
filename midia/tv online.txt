@@ -4,6 +4,7 @@ https://www.cxtv.com.br/tv-ao-vivo/anime-tv
 "Entretenimento sem limites! Desperte suas emoções e mergulhe em um mundo de diversão com nossos incríveis vídeos."
 
 site:
+https://willian-dos-reis.github.io/CanalFfechado/
 
 parmount:
 https://supertvaovivo.tv/paramount-channel-ao-vivo/
