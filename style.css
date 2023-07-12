@@ -47,6 +47,14 @@ body{
     user-select: none;
     overflow-x: hidden;
 }
+.container{
+    display: grid;
+    width: 96%;
+    margin: 0 auto;
+    gap:1.8rem;
+    
+
+}
 
 a{
     color: var(--color-dark);
